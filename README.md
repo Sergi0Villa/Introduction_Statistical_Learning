@@ -1,0 +1,1 @@
+Hi, this repository may contain some task of an introductory course to Statiscal Learning, principally based in the book Introduction to Statistical Learning. This course was taugh by Ricardo Legarda.
